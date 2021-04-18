@@ -23,7 +23,7 @@ var arrayOfQuotes = [
 
   {
     "author": "John Ruskin",
-    "quote": "Der höchste Lohn für unsere Bemühungen ist nicht das, was wir dafür bekommen, sonder das, was wir dadurch werden."
+    "quote": "Der höchste Lohn für unsere Bemühungen ist nicht das, was wir dafür bekommen, sondern das, was wir dadurch werden."
 
   },
   {
